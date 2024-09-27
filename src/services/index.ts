@@ -1,0 +1,1 @@
+export { default as PayPalProviderService } from "./paypal-provider"
